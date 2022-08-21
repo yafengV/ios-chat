@@ -1,0 +1,12 @@
+[
+    {
+        "directory": "/Users/xuan/Desktop/IM/ios-chat",
+        "command": "clang      -c \"/Users/xuan/Desktop/IM/ios-chat/wfuikit/WFChatUIKit/Vendor/Pinyin/pinyin.c\"",
+        "file": "/Users/xuan/Desktop/IM/ios-chat/wfuikit/WFChatUIKit/Vendor/Pinyin/pinyin.c"
+    },
+    {
+        "directory": "/Users/xuan/Desktop/IM/ios-chat",
+        "command": "clang      -c \"/Users/xuan/Desktop/IM/ios-chat/wfclient/WFChatClient/amr/wavreader.c\"",
+        "file": "/Users/xuan/Desktop/IM/ios-chat/wfclient/WFChatClient/amr/wavreader.c"
+    }
+]
